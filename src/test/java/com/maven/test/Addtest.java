@@ -1,4 +1,4 @@
-package com.mavendevop;
+package com.maven.test;
 
 import static org.junit.Assert.*;
 
